@@ -1,0 +1,2 @@
+
+double valorAbsoluto(double);
